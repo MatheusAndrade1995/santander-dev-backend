@@ -1,1 +1,1 @@
-web: java -jar build/libs/santander.digitalinnovation-0.0.1-SNAPSHOT.jar
+web: java -jar build/libs/santander-dev-backend-0.0.1-SNAPSHOT.jar
